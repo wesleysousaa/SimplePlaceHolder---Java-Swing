@@ -14,4 +14,6 @@ Você também pode escolher a cor da fonte do placeholder, tanto a cor do texto 
 ![2021-12-05-15-47-19](https://user-images.githubusercontent.com/47366440/144759471-eee08c69-e7cc-47a6-abef-b304499b24cf.gif)
 
 # Exemplo com escolha de cor
+![Capturar](https://user-images.githubusercontent.com/47366440/147307560-adb8adab-00a5-4136-bef5-3905f12275ad.PNG)
 
+# Demonstração com escolha de cor
