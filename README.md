@@ -18,6 +18,3 @@ Você também pode escolher a cor da fonte do placeholder, tanto a cor do texto 
 
 # Demonstração com escolha de cor
 ![2021-12-23-23-18-00](https://user-images.githubusercontent.com/47366440/147307921-edcc601d-23c5-4bf2-b44b-4a73ec26e611.gif)
-
-# Depêndencias
-Essa Biblioteca não precisa de nenhuma dependência.
